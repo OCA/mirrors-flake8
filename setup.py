@@ -6,5 +6,5 @@ from setuptools import setup
 setup(
     name='pre_commit_placeholder_package',
     version='0.0.0',
-    install_requires=['flake8==3.9.2'],
+    install_requires=['flake8==4.0.0'],
 )
